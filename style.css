@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+#haha{
+    margin-top: 300px;
+}
+
+a{
+    color: white;
+    margin-left: 570px;
+    font-family: tahoma;
+    font-weight: bold;
+    padding: 10px 40px;
+    background-color: black;
+    border-color: red;
+    border-radius: 20px;
+}
+
+a:hover{
+    background-color: rgb(209, 0, 0);
+    color: black;
+}
